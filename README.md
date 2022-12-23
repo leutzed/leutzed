@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning React Native
 - 💬 Ask me about Javascript
 - 📫 How to reach me: leutzed@gmail.com
 
